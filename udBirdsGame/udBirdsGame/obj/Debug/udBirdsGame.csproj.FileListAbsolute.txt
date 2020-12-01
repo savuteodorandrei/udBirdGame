@@ -1,0 +1,10 @@
+D:\C# Projects\udBirdsGame\udBirdsGame\bin\Debug\udBirdsGame.exe.config
+D:\C# Projects\udBirdsGame\udBirdsGame\bin\Debug\udBirdsGame.exe
+D:\C# Projects\udBirdsGame\udBirdsGame\bin\Debug\udBirdsGame.pdb
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.csprojAssemblyReference.cache
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.Form1.resources
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.Properties.Resources.resources
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.csproj.GenerateResource.cache
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.csproj.CoreCompileInputs.cache
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.exe
+D:\C# Projects\udBirdsGame\udBirdsGame\obj\Debug\udBirdsGame.pdb
